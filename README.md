@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm Paolo 👨‍💻
+
+Learning software engineering and dreaming of becoming a game developer 🎮  
+I enjoy web design, programming, and building creative projects.
+
+Still learning, always improving 🚀
+
+🛠 Currently learning:
+- Data Structures & Algorithms
+- Game development concepts
+- Web fundamentals
+
+🎵 Fun facts:
+- I love animals (especially cats 🐱)
+- I play the piano 🎹
+- Passionate about video games 🎮
 
 <!--
 **PaoloMarDev/PaoloMarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
