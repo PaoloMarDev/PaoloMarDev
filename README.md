@@ -8,12 +8,12 @@ I enjoy web design, programming, and building creative projects.
 Still learning, always improving 🚀
 
 🛠 Currently learning:
-- Data Structures & Algorithms
+- Data Structures & Algorithms 🐉
 - Game development concepts
 - Fullstack Web Development
 
 🎵 Fun facts:
-- I love animals (especially cats 🐱)
+- I love animals 🐾
 - I play the piano 🎹
 - Passionate about video games 🎮
 
