@@ -10,7 +10,8 @@ Still learning, always improving 🚀
 🛠 Currently learning:
 - Data Structures & Algorithms 🐉
 - Game development concepts
-- Fullstack Web Development
+- Fullstack Development
+- Video Editing 
 
 🎵 Fun facts:
 - I love animals 🐾
